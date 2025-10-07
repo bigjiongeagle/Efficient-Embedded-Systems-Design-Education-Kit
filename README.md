@@ -22,6 +22,40 @@ Our Efficient Embedded Systems Design Education Kit covers the fundamentals of E
 * Lab manual with solutions for faculty. Labs are based on low-cost yet powerful Arm-based hardware platforms donated by partners (subject to availability). 
 * **Prerequisites:** Basics of C and assembly programming.
 
+## Tools Used
+
+The lab exercises in this course have been developed and tested using the hardware and software listed below. If you use alternatives, you may need to make adjustments to ensure the labs run successfully.
+
+**NUCLEO-F401RE**
+
+Hardware:
+- STM32 Nucleo-F401RE board
+- Logic Analyzer or Oscilloscope
+- LCD module
+- Coin cell
+- Potentiometer
+- 5-way switch
+
+Software:
+- Keil µVision5 MDK IDE Version 5.25.2.0
+- Arduino IDE Version 1.8.7	
+
+**NUCLEO-L552ZE-Q** 
+
+Hardware:
+- STM32 Nucleo-L552ZE-Q board
+- Logic Analyzer or Oscilloscope
+- 5-way switch
+- LCD module
+- Coin cell
+- Potentiometer
+
+Software:
+- Keil µVision5 MDK IDE Version 5.25.2.0
+- Arduino IDE Version 1.8.7	
+- STM32 CubeMX
+- STM Programmer
+
 ## Course Aim
 To produce students who can design and efficiently program Arm-based embedded systems.
 
